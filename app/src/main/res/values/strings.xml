@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MetaquotesTest</string>
+    <string name="enter_url">Введите url</string>
+    <string name="download_and_match">Download and Match</string>
+    <string name="enter_filter">Введите фильтр</string>
+    <string name="result">Результат</string>
+    <string name="something_went_wrong">Что-то пошло не так</string>
+    <string name="downloading_cancelled">Downloading cancelled</string>
+    <string name="copied_to_clpboard">Copied to clipboard</string>
+</resources>
